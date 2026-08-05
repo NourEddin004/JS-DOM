@@ -1,0 +1,32 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+    font-family: Arial;
+}
+
+h1{
+    color: darkcyan;
+}
+
+
+ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+}
+
+li{
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    color: darkcyan;
+    font-size: 20px;
+}
+
+img{
+    display: block;
+    width: 120px;
+    height: 120px;
+    margin-top: 10px;
+}
